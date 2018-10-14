@@ -2,7 +2,7 @@ import React from 'react'
 import Layout from '../HOC/Layout'
 import { ProfileTopNav } from '../blocks/ProfileTopNav'
 
-class Offer extends React.PureComponent {
+class EditProfile extends React.PureComponent {
   render() {
     return (
       <Layout TopNav={ProfileTopNav}>
@@ -23,4 +23,4 @@ class Offer extends React.PureComponent {
   }
 }
 
-export { Offer }
+export { EditProfile }
