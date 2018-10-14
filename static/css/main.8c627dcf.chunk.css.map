@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/giraffesyo/Documents/Development/help2behelped/client/src/overrides.css"],"names":[],"mappings":"AAAA,oCACE,sBAAyB,CAC1B,AACD,KACE,eAAoB,CACrB","file":"main.8c627dcf.chunk.css","sourcesContent":[".goog-te-banner-frame.skiptranslate {\n  display: none !important;\n}\nbody {\n  top: 0px !important;\n}\n"]}
