@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/help2behelped/static/js/runtime~main.6d6a3415.js"
   },
   {
-    "revision": "be11c15ef754e3293382",
-    "url": "/help2behelped/static/js/main.be11c15e.chunk.js"
+    "revision": "420ec54ae4a0bd464efe",
+    "url": "/help2behelped/static/js/main.420ec54a.chunk.js"
   },
   {
     "revision": "6ac0259cb18751e15050",
     "url": "/help2behelped/static/js/1.6ac0259c.chunk.js"
   },
   {
-    "revision": "be11c15ef754e3293382",
+    "revision": "420ec54ae4a0bd464efe",
     "url": "/help2behelped/static/css/main.1b4d2cfc.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/help2behelped/static/css/1.05ec8622.chunk.css"
   },
   {
-    "revision": "ba9f1bb34adb6c31bf77439a7966ce22",
+    "revision": "595179e73994b0e31940661a0ba3982e",
     "url": "/help2behelped/index.html"
   }
 ];
