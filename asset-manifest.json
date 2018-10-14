@@ -1,16 +1,16 @@
 {
   "main.css": "/help2behelped/static/css/main.8c627dcf.chunk.css",
-  "main.js": "/help2behelped/static/js/main.cfc95004.chunk.js",
-  "main.js.map": "/help2behelped/static/js/main.cfc95004.chunk.js.map",
+  "main.js": "/help2behelped/static/js/main.3f23a8f8.chunk.js",
+  "main.js.map": "/help2behelped/static/js/main.3f23a8f8.chunk.js.map",
   "static/css/1.05ec8622.chunk.css": "/help2behelped/static/css/1.05ec8622.chunk.css",
   "static/js/1.aceb4336.chunk.js": "/help2behelped/static/js/1.aceb4336.chunk.js",
   "static/js/1.aceb4336.chunk.js.map": "/help2behelped/static/js/1.aceb4336.chunk.js.map",
   "runtime~main.js": "/help2behelped/static/js/runtime~main.6d6a3415.js",
   "runtime~main.js.map": "/help2behelped/static/js/runtime~main.6d6a3415.js.map",
-  "static/css/main.8c627dcf.chunk.css.map": "/help2behelped/static/css/main.8c627dcf.chunk.css.map",
-  "static/media/wolf-avatar.png": "/help2behelped/static/media/wolf-avatar.7b482805.png",
   "static/css/1.05ec8622.chunk.css.map": "/help2behelped/static/css/1.05ec8622.chunk.css.map",
+  "static/media/wolf-avatar.png": "/help2behelped/static/media/wolf-avatar.7b482805.png",
+  "static/css/main.8c627dcf.chunk.css.map": "/help2behelped/static/css/main.8c627dcf.chunk.css.map",
   "index.html": "/help2behelped/index.html",
-  "precache-manifest.e4d9cae014108d71db0d0e927a837136.js": "/help2behelped/precache-manifest.e4d9cae014108d71db0d0e927a837136.js",
+  "precache-manifest.879dcfd4427a9479fb53cc83decbb55f.js": "/help2behelped/precache-manifest.879dcfd4427a9479fb53cc83decbb55f.js",
   "service-worker.js": "/help2behelped/service-worker.js"
 }
